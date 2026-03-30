@@ -54,7 +54,7 @@ Rosas (rojo, blanco, rosa), Tulipanes, Girasol, Orquideas, Clavel y Lirio.
 ## Ejecucion
 
 ```bash
-python floraexport.py
+python C16T1.py
 ```
 
 ---
